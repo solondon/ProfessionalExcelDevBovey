@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Author>
+  <Name>Rob Bovey</Name>
+  <Email>robbovey@appspro.com</Email>
+  <Book>
+    <Title>Professional Excel Development</Title>
+    <Publisher>Addison Wesley</Publisher>
+    <ISBN>0321262506</ISBN>
+  </Book>
+  <Book>
+    <Title>Excel 2007 VBA Programmer's Reference</Title>
+    <Publisher>Wrox</Publisher>
+    <ISBN>0470046430</ISBN>
+  </Book>
+</Author>

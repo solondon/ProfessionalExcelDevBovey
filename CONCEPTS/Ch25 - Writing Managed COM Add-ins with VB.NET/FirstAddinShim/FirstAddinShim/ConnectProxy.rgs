@@ -1,0 +1,49 @@
+HKCR
+{
+	FirstAddin.Connect = s 'Connect Class'
+	{
+		CLSID = s '{b7b5d1ed-8528-4c11-b70a-ee1bd7e4d1bd}'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove '{b7b5d1ed-8528-4c11-b70a-ee1bd7e4d1bd}' = s 'FirstAddin.Connect'
+		{
+			ProgID = s 'FirstAddin.Connect'
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			
+		}
+	}
+}
+
+HKCU
+{
+	NoRemove Software
+	{
+		NoRemove Microsoft
+		{
+			NoRemove Office
+			{
+				NoRemove Excel
+				{
+					NoRemove Addins
+					{
+						ForceRemove FirstAddin.Connect
+						{
+							val 'Description' = s 'Chapter 25 - Writing Managed COM Add-ins with VB.NET'
+							val 'FriendlyName' = s 'First Shimmed Add-in'
+							val 'LoadBehavior' = d 3
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+
+
+
+

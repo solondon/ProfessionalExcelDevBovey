@@ -1,0 +1,11 @@
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\SecondAddin\SecondAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\SecondAddin\SecondAddin\obj\Debug\SecondAddin.vbproj.ResolveComReference.cache
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\SecondAddin\SecondAddin\obj\Debug\SecondAddin.Resources.resources
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\SecondAddin\SecondAddin\obj\Debug\SecondAddin.vbproj.GenerateResource.Cache
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\SecondAddin\SecondAddin\bin\Second Addin.dll
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\SecondAddin\SecondAddin\bin\Second Addin.pdb
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\SecondAddin\SecondAddin\bin\Second Addin.xml
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\SecondAddin\SecondAddin\bin\Second Addin.tlb
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\SecondAddin\SecondAddin\obj\Debug\Second Addin.dll
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\SecondAddin\SecondAddin\obj\Debug\Second Addin.xml
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\SecondAddin\SecondAddin\obj\Debug\Second Addin.pdb

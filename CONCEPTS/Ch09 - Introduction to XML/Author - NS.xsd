@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+   targetNamespace="http://www.appspro.com/ProExcelDev/Author"
+   xmlns:au="http://www.appspro.com/ProExcelDev/Author"
+   elementFormDefault="qualified">
+  <xs:element name="Author">
+   <xs:complexType>
+    <xs:sequence>
+     <xs:element name="Name" type="xs:string"/>
+     <xs:element name="Email" type="xs:string" 
+                 minOccurs="0" maxOccurs="unbounded"/>
+     <xs:element name="Book" 
+                 minOccurs="0" maxOccurs="unbounded">
+      <xs:complexType>
+       <xs:sequence>
+        <xs:element name="Title" type="xs:string"/>
+        <xs:element name="Publisher" type="xs:string"/>
+        <xs:element name="ISBN" type="xs:string"/>
+       </xs:sequence>
+      </xs:complexType>
+     </xs:element>
+    </xs:sequence>
+   </xs:complexType>
+  </xs:element>
+ </xs:schema>

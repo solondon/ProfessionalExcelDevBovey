@@ -1,0 +1,1 @@
+This version of the Microsoft Office 2003 Web Services Toolkit 2.01 installer has been modified so that it will allow itself to be installed on Excel 2007 and higher. The application has not been altered in any other way.

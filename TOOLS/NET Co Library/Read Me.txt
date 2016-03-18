@@ -1,0 +1,33 @@
+﻿1. .NET Co Library
+
+.NET Co Library is a free managed COM add-in for Microsoft Excel 2000 - 2007 and the acronym Co in its 
+name refers to both Connection and Code. 
+
+With the tool you can: 
+
+* Store created VBA code, code snippets / procedures / modules, and SQL Queries in a well organized way 
+enabling you to easily reuse the code in all kind of Excel VBA solutions.
+
+* Create connection strings to a various number of databases with two wizards, the .NET Wizard and the 
+Data Link Wizard. Store the created connections strings in a structural way enabling you to easily reuse 
+the connection strings in all kind of Excel VBA solutions.  
+
+.NET Co Library has been designed so it also can be shared within a group of VBA developers over a network.
+
+2. Requirements and known issues:
+Before installing .NET Co Library it is important that you explicit read the following sections in the help 
+file:
+- Requirements
+- Known issues
+- Installation
+
+The help file is also included here as a standalone file - NET Co Library.chm 
+
+3. Installation
+The NET Co Library.zip file contains two files, the setup.exe file and the NET Co Library.msi file. 
+Installing .NET Co Library on any Windows Vista version should be done with the setup.exe file.
+
+
+4. Windows Vista and Excel 2000 to 2003
+For all .NET solutions a bug may occur when targeting the VB Editor's standard menu bar. Since .NET Co Library
+explicit target the standard menu bar the bug may prevent you from running the tool.

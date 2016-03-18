@@ -1,0 +1,13 @@
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\bin\Debug\HandleCTP.dll
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\bin\Debug\HandleCTP.pdb
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\bin\Debug\HandleCTP.xml
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\bin\Debug\HandleCTP.dll.manifest
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\bin\Debug\HandleCTP.vsto
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\obj\Debug\HandleCTP.CTPControl.resources
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\obj\Debug\HandleCTP.Resources.resources
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\obj\Debug\HandleCTP.Report.resources
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\obj\Debug\HandleCTP.vbproj.GenerateResource.Cache
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\obj\Debug\HandleCTP.dll
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\obj\Debug\HandleCTP.xml
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\HandleCTP\HandleCTP\obj\Debug\HandleCTP.pdb

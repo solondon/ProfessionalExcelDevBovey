@@ -1,0 +1,9 @@
+LIBRARY	"Sample"
+
+EXPORTS
+	xlAutoOpen
+	xlAutoClose
+	xlAddInManagerInfo
+	AddTwo
+	MultiplyTwo
+	IFERROR

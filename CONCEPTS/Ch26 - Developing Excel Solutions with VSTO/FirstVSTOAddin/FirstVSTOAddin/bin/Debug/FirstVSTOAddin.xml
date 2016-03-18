@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FirstVSTOAddin
+</name>
+</assembly>
+<members>
+<member name="M:FirstVSTOAddin.ThisAddIn.#ctor">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.Initialize">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.FinishInitialization">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.InitializeDataBindings">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.InitializeCachedData">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.InitializeData">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.BindToData">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.StartCaching(System.String)">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.StopCaching(System.String)">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.IsCached(System.String)">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.BeginInitialization">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.EndInitialization">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.InitializeControls">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.InitializeComponents">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.NeedsFill(System.String)">
+</member><member name="M:FirstVSTOAddin.ThisAddIn.OnShutdown">
+</member><member name="T:FirstVSTOAddin.ThisAddIn">
+</member><member name="M:FirstVSTOAddin.Globals.#ctor">
+</member><member name="T:FirstVSTOAddin.Globals">
+</member><member name="T:FirstVSTOAddin.ThisRibbonCollection">
+</member><member name="P:FirstVSTOAddin.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:FirstVSTOAddin.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:FirstVSTOAddin.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

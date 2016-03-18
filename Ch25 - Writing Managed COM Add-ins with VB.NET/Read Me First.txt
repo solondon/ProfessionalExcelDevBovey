@@ -1,0 +1,169 @@
+Applications for Chapter 25 - Writing Managed COM Add-ins with VB.NET
+
+************************** Office2003PIA *********************************************
+
+With this folder and its files we can add the Office 2003 PIA to the Prerequisites 
+dialog and use them with our solutions.
+
+This folder and its files must be placed in the following directory on your computer:
+
+C:\Program Files\Microsoft SDKs\Windows\v6.0A\Bootstrapper\Packages
+
+When the setup packages are compiled, the following error message will be reported:
+
+"No 'HomeSite' attribute has been provided for 'Microsoft Office 2003 Primary Interop
+Assemblies', so the package will be published to the same location as the bootstrapper."
+
+This error message can be disregarded.
+
+A subfolder with the name Office<version>PIA will always be copied to the setup folder
+in the solution.
+
+
+******************** Attach the PETRAS database to SQL Server ************************
+
+If you have not already sttached the PETRAS database to your SQL Server you must do so
+using the following steps:
+
+1. Unzip the PETRAS_Database.zip file. This archive contains two files:
+   PETRAS.mdf and PETRAS.ldf.
+2. Open SQL Server Management Studio.
+3. Expand the node for your SQL Server in the Object Explorer window.
+4. Right-click on the Databases folder and choose "Attach..." from the menu.
+5. In the attach databases dialog click the Add button.
+6. Locate the PETRAS.mdf file and click OK in both dialogs to attach the database.
+
+
+
+****************** Managed COM Add-in PETRAS Report Tool .NET Excel 2003 ***************
+
+If you are running the application with a version of Excel other than Excel 2003, 
+you first need to change the references to the Excel object library, Office object 
+library and Microsoft Visual Basic for Application Extensibility 5.3 object library,
+as this is not done automatically.
+
+If the Install option is unavailable, you need to first build the setup project and 
+then install the solution.
+
+In order to explore and test the application you will need to meet the following
+requirements.
+
+* Excel 2003 SP-3 or earlier.
+* Visual Studio 2008 or later.
+* SQL Server 2005 Express Edition or later.
+
+To update the connection string:
+
+Remove the current connection string:
+1. Open VS 2008.
+2. Open the PETRAS Project file located in the folder \PETRAS Report Tool
+3. Select the Project > PETRAS Report Tool Properties... menu
+4. Select the 'Settings' tab.
+5. Select the whole first row and right click it. Select Remove Setting from the menu.
+
+Create a new connection string:
+1. Choose Data > Add New Data Sources... from the menu
+2. In the Data Sources window click the Add New Data Source... button
+3. Select the Database option in the first step of Data Source Configuration wizard.
+4. In the next step click the New Connection button. 
+5. Enter the correct information in the dialog:
+
+- If you use a local SQL Server 2005 Express Edition or later, for the 
+  'Server name' start with a \ [backslash] and then the name SQLEXPRESS.
+- Select the 'Windows Authentication' option for logging into the server.
+- Select PETRAS database in the field 'Select or enter a database name'.
+- Make sure to test the connection by clicking the 'Test Connection' button.
+
+All the Excel templates files are located in the bin folder:
+
+...\PETRAS Report Tool\PETRAS Report Tool\bin\
+
+The help file, PETRAS_Report_Tool.chm, is also located in the bin folder.
+
+Important:
+If you debug the solution and load Excel then the VS IDE creates a new DLL for the solution
+which is loaded by the mscoree.dll file and not the shim. 
+
+To restore so that the shim loads the solution you need to do the following:
+1. Uninstall the current version of the solution.
+2. Rebuild the setup package.
+3. Re-install the solution.
+
+If you see an item with the name "(unable to determine name)" under the PETRASReportToolSetup 
+root node in the Solution Explorer then you need to take the following action.
+
+1. Select the "(unable to determine name)" item, right click it and select Remove from the menu.
+2. Select the root node PETRASReportToolSetup and right click on it.
+3. Select the Add > Project Output... from the menu.
+4. In the dialog select the ManagedAggregator in the Project combobox and then click the OK button.
+
+Now you can rebuild the setup package and install the solution.
+
+
+****************** Managed COM Add-in PETRAS Report Tool .NET Excel 2007 ***************
+
+If you are running the application with a version of Excel other than Excel 2007, 
+you first need to change the references to the Excel object library, Office object 
+library and Microsoft Visual Basic for Application Extensibility 5.3 object library,
+as this is not done automatically.
+
+If the Install option is unavailable then you need to first build the setup project and 
+then install the solution.
+
+In order to explore and test the application you will need to meet the following
+requirements.
+
+* Excel 2007 SP-3 or earlier.
+* Visual Studio 2008 or later.
+* SQL Server 2005 Express Edition or later.
+
+To update the connection string:
+
+Remove the present connection string:
+1. Open VS 2008.
+2. Open PETRAS Project file located in the  mainfolder \PETRAS Report Tool
+3. Select the command Project | PETRAS Report Tool Properties...
+4. Select the tab 'Settings'.
+5. Select the whole first row and right click on it. From the menu select the command
+   Remove Setting.
+
+Create a new connection string:
+1. Choose the command Data > Add New Data Sources...
+2. In the Data Sources windows click on the text Add New Data Source...
+3. Select the Database option in the first step of Data Source Configuration wizard.
+4. In the next step click on the button New Connection. 
+5. Entry the correct information in the dialog form:
+
+- If you use a local SQL Server 2005 Express Edition or later, for the 
+  'Server name' start with a \ [backslash] and then the name SQLEXPRESS.
+- Select the 'Windows Authentication' option for logging into the server.
+- Select PETRAS database in the field 'Select or enter a database name'.
+- Make sure to test the connection by clicking on the 'Test Connection' button.
+
+Note: If you need to change the connection string then you need to use the Rebuild
+command instead of the Build command when updating the setup package.
+
+All the Excel templates files are located in the bin folder:
+
+...\PETRAS Report Tool\PETRAS Report Tool\bin\
+
+The help file, PETRAS_Report_Tool.chm, is also located in the bin folder.
+
+Important:
+If you debug the solution and load Excel then VS IDE creates a new DLL for the solution
+which is loaded by the mscoree.dll file and not the shim. 
+
+To restore so that the shim loads the solution you need to do the following:
+1. Uninstall the present version of the solution.
+2. Rebuild the setup package.
+3. Re-install the solution.
+
+If you see an item with the name "(unable to determine name)" under the PETRASReportToolSetup 
+root node in the Solution Explorer then you need to take the following action.
+
+1. Select the "(unable to determine name)" item, right click it and select Remove from the menu.
+2. Select the root node PETRASReportToolSetup and right click on it.
+3. Select the Add > Project Output... from the menu.
+4. In the dialog select the ManagedAggregator in the Project combobox and then click the OK button.
+
+Now you can rebuild the setup package and install the solution.

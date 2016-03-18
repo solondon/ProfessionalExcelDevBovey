@@ -1,0 +1,18 @@
+<!-- This file is not required to run the application. It is provided to show
+the XML markup required to create the Excel 2007 version of the UI -->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+	<ribbon>
+		<tabs>
+			<tab id="pedTab" label="Demo Tab" insertAfterMso="TabView">
+				<group id="pedGroup" label="Demo Group">
+					<button id="pedButton1" label="Button 1" size="large" onAction="PED_CallBack" imageMso="LeftArrow2"/>
+					<button id="pedButton2" label="Button 2" size="large" onAction="PED_CallBack" imageMso="RightArrow2"/>
+					<button id="pedButton3" label="Button 3" size="large" onAction="PED_CallBack" imageMso="CancelRequest"/>
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>
+
+

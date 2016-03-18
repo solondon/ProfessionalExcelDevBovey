@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI onLoad="Ribbon_Load" xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+    <ribbon>
+        <tabs>
+            <tab id="Tab1" label="First VSTO Add-in">
+                <group id="Group1" label="First Group">
+                    <button id="Button1" 
+                     label="Message" 
+                     onAction="Button1_Click"
+                     showImage="false" />
+                </group>
+            </tab>
+        </tabs>
+    </ribbon>
+</customUI>

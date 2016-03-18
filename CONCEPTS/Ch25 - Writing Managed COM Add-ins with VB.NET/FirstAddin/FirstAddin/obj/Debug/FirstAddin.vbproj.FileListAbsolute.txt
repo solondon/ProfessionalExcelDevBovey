@@ -1,0 +1,22 @@
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddin\FirstAddin\bin\FirstAddin.dll
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddin\FirstAddin\bin\FirstAddin.pdb
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddin\FirstAddin\bin\FirstAddin.xml
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddin\FirstAddin\bin\FirstAddin.tlb
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddin\FirstAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddin\FirstAddin\obj\Debug\FirstAddin.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddin\FirstAddin\obj\Debug\FirstAddin.dll
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddin\FirstAddin\obj\Debug\FirstAddin.xml
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddin\FirstAddin\obj\Debug\FirstAddin.pdb
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddin\FirstAddin\obj\Debug\FirstAddin.Resources.resources
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddin\FirstAddin\obj\Debug\FirstAddin.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 25 - Writing Managed COM Add-ins with VB.NET\Concepts\FirstAddin\FirstAddin\bin\FirstAddin.dll
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 25 - Writing Managed COM Add-ins with VB.NET\Concepts\FirstAddin\FirstAddin\bin\FirstAddin.pdb
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 25 - Writing Managed COM Add-ins with VB.NET\Concepts\FirstAddin\FirstAddin\bin\FirstAddin.xml
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 25 - Writing Managed COM Add-ins with VB.NET\Concepts\FirstAddin\FirstAddin\bin\FirstAddin.tlb
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 25 - Writing Managed COM Add-ins with VB.NET\Concepts\FirstAddin\FirstAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 25 - Writing Managed COM Add-ins with VB.NET\Concepts\FirstAddin\FirstAddin\obj\Debug\FirstAddin.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 25 - Writing Managed COM Add-ins with VB.NET\Concepts\FirstAddin\FirstAddin\obj\Debug\FirstAddin.Resources.resources
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 25 - Writing Managed COM Add-ins with VB.NET\Concepts\FirstAddin\FirstAddin\obj\Debug\FirstAddin.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 25 - Writing Managed COM Add-ins with VB.NET\Concepts\FirstAddin\FirstAddin\obj\Debug\FirstAddin.dll
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 25 - Writing Managed COM Add-ins with VB.NET\Concepts\FirstAddin\FirstAddin\obj\Debug\FirstAddin.xml
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 25 - Writing Managed COM Add-ins with VB.NET\Concepts\FirstAddin\FirstAddin\obj\Debug\FirstAddin.pdb

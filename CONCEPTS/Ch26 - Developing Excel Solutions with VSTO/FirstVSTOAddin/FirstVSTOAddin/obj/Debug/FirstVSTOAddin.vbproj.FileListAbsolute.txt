@@ -1,0 +1,12 @@
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\FirstVSTOAddin\FirstVSTOAddin\bin\Debug\FirstVSTOAddin.dll
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\FirstVSTOAddin\FirstVSTOAddin\bin\Debug\FirstVSTOAddin.pdb
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\FirstVSTOAddin\FirstVSTOAddin\bin\Debug\FirstVSTOAddin.xml
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\FirstVSTOAddin\FirstVSTOAddin\bin\Debug\FirstVSTOAddin.dll.manifest
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\FirstVSTOAddin\FirstVSTOAddin\bin\Debug\FirstVSTOAddin.vsto
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\FirstVSTOAddin\FirstVSTOAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\FirstVSTOAddin\FirstVSTOAddin\obj\Debug\FirstVSTOAddin.Resources.resources
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\FirstVSTOAddin\FirstVSTOAddin\obj\Debug\FirstVSTOAddin.vbproj.GenerateResource.Cache
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\FirstVSTOAddin\FirstVSTOAddin\obj\Debug\FirstVSTOAddin.dll
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\FirstVSTOAddin\FirstVSTOAddin\obj\Debug\FirstVSTOAddin.xml
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\FirstVSTOAddin\FirstVSTOAddin\obj\Debug\FirstVSTOAddin.pdb
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\FirstVSTOAddin\FirstVSTOAddin\obj\Debug\FirstVSTOAddin.CustomRibbonUI.resources

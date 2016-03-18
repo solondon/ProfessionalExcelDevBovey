@@ -1,0 +1,25 @@
+[OPTIONS]
+Auto Index=Yes
+Auto TOC=1
+Compatibility=1.1 or later
+Compiled file=PETRAS.chm
+Contents file=Contents.hhc
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x409 English (United States)
+Title=PETRAS Reporting Application
+
+
+[FILES]
+htIntro.htm
+htNoHelp.htm
+
+[ALIAS]
+#include TopicToFile.h
+
+[MAP]
+#include TopicToID.h
+
+[INFOTYPES]
+

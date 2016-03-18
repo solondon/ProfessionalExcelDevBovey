@@ -1,0 +1,50 @@
+﻿<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+
+  <ribbon startFromScratch="false">
+
+    <tabs>
+
+      <tab id="rxPED.Tab"
+           label="PED Reports"
+           keytip="Z"
+           insertAfterMso="TabHome"
+           visible="true">
+
+        <group id="rxReport.Group"
+               label="Reports"
+               visible="true">
+
+          <button id="rxbtnTime"
+                  label="Time Report"
+                  screentip="Create a Time report."
+                  keytip="T"
+                  imageMso="DateAndTimeInsert"
+                  size="large"
+                  onAction="PED_Reports_Click" />
+
+          <button id="rxbtnChart"
+                  label="Chart Report"
+                  screentip="Create Chart report."
+                  keytip="C"
+                  imageMso="ChartInsert"
+                  size="large"
+                  onAction="PED_Reports_Click" />
+
+          <button id="rxbtnData"
+                  label="Data Report"
+                  screentip="Create Data report."
+                  keytip="D"
+                  imageMso="ExportExcel"
+                  size="large"
+                  onAction="PED_Reports_Click" />
+
+        </group>
+
+      </tab>
+
+    </tabs>
+
+  </ribbon>
+
+</customUI>
+

@@ -1,0 +1,22 @@
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\Automate Excel\Automate Excel\bin\Debug\Automate Excel.exe
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\Automate Excel\Automate Excel\bin\Debug\Automate Excel.pdb
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\Automate Excel\Automate Excel\bin\Debug\Automate Excel.xml
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\Automate Excel\Automate Excel\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\Automate Excel\Automate Excel\obj\Debug\Automate Excel.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\Automate Excel\Automate Excel\obj\Debug\Automate_Excel.Form1.resources
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\Automate Excel\Automate Excel\obj\Debug\Automate_Excel.Resources.resources
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\Automate Excel\Automate Excel\obj\Debug\Automate Excel.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\Automate Excel\Automate Excel\obj\Debug\Automate Excel.exe
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\Automate Excel\Automate Excel\obj\Debug\Automate Excel.xml
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\Automate Excel\Automate Excel\obj\Debug\Automate Excel.pdb
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\Automate Excel\Automate Excel\obj\Debug\Automate Excel.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\Automate Excel\Automate Excel\obj\Debug\Automate Excel.exe
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\Automate Excel\Automate Excel\obj\Debug\Automate Excel.xml
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\Automate Excel\Automate Excel\obj\Debug\Automate Excel.pdb
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\Automate Excel\Automate Excel\bin\Debug\Automate Excel.exe
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\Automate Excel\Automate Excel\bin\Debug\Automate Excel.pdb
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\Automate Excel\Automate Excel\bin\Debug\Automate Excel.xml
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\Automate Excel\Automate Excel\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\Automate Excel\Automate Excel\obj\Debug\Automate_Excel.Form1.resources
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\Automate Excel\Automate Excel\obj\Debug\Automate_Excel.Resources.resources
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\Automate Excel\Automate Excel\obj\Debug\Automate Excel.vbproj.GenerateResource.Cache

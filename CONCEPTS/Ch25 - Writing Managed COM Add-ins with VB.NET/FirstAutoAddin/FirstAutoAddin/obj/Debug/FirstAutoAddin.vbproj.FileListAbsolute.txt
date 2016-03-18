@@ -1,0 +1,9 @@
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAutoAddin\FirstAutoAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAutoAddin\FirstAutoAddin\obj\Debug\FirstAutoAddin.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAutoAddin\FirstAutoAddin\bin\AutoAddin.dll
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAutoAddin\FirstAutoAddin\bin\AutoAddin.pdb
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAutoAddin\FirstAutoAddin\bin\AutoAddin.xml
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAutoAddin\FirstAutoAddin\bin\AutoAddin.tlb
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAutoAddin\FirstAutoAddin\obj\Debug\AutoAddin.dll
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAutoAddin\FirstAutoAddin\obj\Debug\AutoAddin.xml
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAutoAddin\FirstAutoAddin\obj\Debug\AutoAddin.pdb

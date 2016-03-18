@@ -1,0 +1,45 @@
+<!-- This file is not required to run the application. It is provided to show
+the XML markup required to create the Excel 2007 version of the UI -->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" 
+			onLoad="pedCustomUI_onLoad">
+	<ribbon>
+		<tabs>
+			<tab id="pedPetrasTimesheetTab"
+				label="PETRAS Timesheet"
+				insertAfterMso="TabView">
+				<group id="pedPetrasTimesheetGroup" label="Timesheet">
+					<button id="pedNewTimesheet"
+						label="New Timesheet"
+						size="large"
+						onAction="PETRAS_CallBack"
+						imageMso="FileNew"/>
+					<button id="pedPostToNetwork"
+						label="Post To Network"
+						size="large"
+						onAction="PETRAS_CallBack"
+						getEnabled="pedSetControlState"
+						imageMso="ExportExcel"/>
+					<button id="pedAddMoreRows"
+						label="Add More Rows"
+						size="large"
+						onAction="PETRAS_CallBack"
+						getEnabled="pedSetControlState"
+						imageMso="CellsInsertDialog"/>
+					<button id="pedClearDataEntries"
+						label="Clear Data Entries"
+						size="large"
+						onAction="PETRAS_CallBack"
+						getEnabled="pedSetControlState"
+						imageMso="InkEraseMode"/>
+					<button id="pedExitPETRAS"
+						label="Exit PETRAS"
+						size="large"
+						onAction="PETRAS_CallBack"
+						imageMso="CancelRequest"/>
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>
+

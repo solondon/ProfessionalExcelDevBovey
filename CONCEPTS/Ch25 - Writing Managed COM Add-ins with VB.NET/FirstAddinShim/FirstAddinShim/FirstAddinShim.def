@@ -1,0 +1,9 @@
+; FirstAddinShim.def : Declares the module parameters.
+
+LIBRARY      "FirstAddinShim.DLL"
+
+EXPORTS
+	DllCanUnloadNow		PRIVATE
+	DllGetClassObject	PRIVATE
+	DllRegisterServer	PRIVATE
+	DllUnregisterServer	PRIVATE

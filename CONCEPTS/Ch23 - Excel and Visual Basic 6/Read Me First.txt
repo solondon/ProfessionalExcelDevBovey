@@ -1,0 +1,8 @@
+Even if you do not have VB6, we have provided compiled executible files for all of the examples demonstrated in this chapter. You do not need to do anything special to run the EXE projects. Simply double-click the EXE file in Windows Explorer and it will run. For projects that use DLLs you will need to register the DLL on your system prior to using it.
+
+First, copy the contents of the project you want to run onto your hard disk (we recommend against registering DLLs located on a removable disk, even though the process may succeed). Next, choose the Start button from the Windows Taskbar and select the Run menu. In the Run dialog you will enter the following syntax to register a DLL:
+
+	regsvr32 "C:\My Path\DLLName.dll"
+
+Where "C:\My Path\DLLName.dll" is the full path and filename where the DLL is located on your computer.
+

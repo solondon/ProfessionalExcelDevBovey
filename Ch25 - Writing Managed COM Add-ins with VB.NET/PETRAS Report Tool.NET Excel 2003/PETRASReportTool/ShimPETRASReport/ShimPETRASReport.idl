@@ -1,0 +1,39 @@
+// ShimPETRASReport.idl 
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(90E842DB-E5C5-40DB-AC79-86F792E9D897),
+	version(1.0),
+	helpstring("ShimPETRASReport 1.0 Type Library")
+]
+library ShimPETRASReportLib
+{
+	importlib("stdole2.tlb");
+
+	[
+		uuid(9d5657e0-301c-40f6-8d72-b4f9f003c2a2),
+		helpstring("ConnectProxy Class")
+	]
+	coclass ConnectProxy
+	{
+		[default] interface IUnknown;
+	};
+
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

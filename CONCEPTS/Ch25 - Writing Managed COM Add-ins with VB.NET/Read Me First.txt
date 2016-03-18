@@ -1,0 +1,72 @@
+Concepts for Chapter 25 - Writing Managed COM Add-ins with VB.NET
+
+If you are running the application with a later version of Excel than
+Excel 2003 you first need to change the references to the Excel object 
+library, Office object library and Microsoft Visual Basic for Applications
+Extensibility 5.3 object library as this is not done automatically.
+
+If you experience several references to the Microsoft Visual Basic for 
+Application Extensibility 5.3 object library in a solution then you should 
+remove both. A reference is automatically added to this library when we add a 
+reference to Excel object library. However, since none of the solutions
+actually use this library you can safely remove all references to it.
+
+Also make sure to change the option "Start external
+program" under the Debug tab in the solution's Properties
+windows.
+
+If the Install option is unavailable then you need
+to first build the setup project and then install the
+solution.
+
+********************** FirstAddin **********************
+In order to explore the solution you will need VS 2008,
+Excel 2003 together with the version specific PIAs.
+
+To register it on your computer you must do the following:
+1. Open the solution in VS 2008.
+2. Select the root node FirstAddinSetup in the Solution
+   Explorer.
+3. Right click and select Install from the shortcut menu.
+
+If you use a later version of Excel than 2003 the toolbar will
+not be displayed.
+
+
+********************** SecondAddin **********************
+In order to explore the solution you will need VS 2008,
+Excel 2007 together with the version specific PIAs.
+
+To register it on your computer you must do the following:
+1. Open the solution in VS 2008.
+2. Select the root node SecondAddin in the Solution
+   Explorer.
+3. Right click and select Install from the shortcut menu.
+
+
+********************** FirstAutoAddin **********************
+In order to explore the solution you will need VS 2008,
+Excel 2003 or higher together with the version specific PIAs.
+
+To registrate it on the computer you must do the following:
+1, Open the solution in VS 2008.
+2. Select the root node FirstAutoAddin in the Solution
+   Explorer.
+2. Right click on it. 
+3. From the menu select the command Install.
+
+
+********************** FirstAddinShim **********************
+In order to explore the solution you will need VS 2008,
+Excel 2003 together with the version specific PIAs.
+
+To register it on your computer you must do the following:
+1. Open the solution in VS 2008.
+2. Select the root node SecondAddin in the Solution
+   Explorer.
+3. Right click and select Install from the shortcut menu.
+
+If you use a later version of Excel than 2003 the toolbar will
+not be displayed.
+
+

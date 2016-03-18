@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="NPVModel">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="NPVModelData">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="ControlInformation">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element name="SubmittedBy" type="xsd:string" />
+                    <xsd:element name="Email" type="xsd:string" />
+                    <xsd:element name="Comment" type="xsd:string" minOccurs="0" maxOccurs="1" />
+                  </xsd:sequence>
+                </xsd:complexType>
+              </xsd:element>
+              <xsd:element name="InputData">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element name="Rate" type="xsd:double" />
+                    <xsd:element name="Flows" type="xsd:double" minOccurs="2" maxOccurs="unbounded" />
+                  </xsd:sequence>
+                </xsd:complexType>
+              </xsd:element>
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+        <xsd:element name="NPVModelDetails">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="ModelVersion" type="xsd:string" />
+              <xsd:element name="CalcDate" type="xsd:dateTime" />
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+        <xsd:element name="NPVModelResults">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="FlowCount" type="xsd:double" />
+              <xsd:element name="FlowTotal" type="xsd:double" />
+              <xsd:element name="FlowNPV" type="xsd:double" />
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

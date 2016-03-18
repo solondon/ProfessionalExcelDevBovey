@@ -1,0 +1,13 @@
+Concepts for Chapter 26 -  Developing Excel Solutions with 
+Visual Studio Tools for Office System (VSTO)
+
+********************** FirstVSTOAddin **********************
+In order to explore the solution you will need VS 2008 and
+Excel 2007 with the version-specific PIAs.
+
+
+********************** HandleCTP ***************************
+In order to explore the solution you will need VS 2008 and
+Excel 2007 with the version-specific PIAs.
+
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NPVModelData>
+  <ControlInformation>
+    <SubmittedBy>Rob Bovey</SubmittedBy>
+    <Email>robbovey@appspro.com</Email>
+    <Comment>Fee Fi Fo Fum</Comment>
+  </ControlInformation>
+  <InputData>
+    <Rate>0.05</Rate>
+    <Flows>10</Flows>
+    <Flows>20</Flows>
+    <Flows>30</Flows>
+    <Flows>40</Flows>
+  </InputData>
+</NPVModelData>

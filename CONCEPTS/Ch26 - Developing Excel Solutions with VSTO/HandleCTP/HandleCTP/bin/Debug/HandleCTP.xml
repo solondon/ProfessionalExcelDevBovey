@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HandleCTP
+</name>
+</assembly>
+<members>
+<member name="M:HandleCTP.ThisAddIn.#ctor">
+</member><member name="M:HandleCTP.ThisAddIn.Initialize">
+</member><member name="M:HandleCTP.ThisAddIn.FinishInitialization">
+</member><member name="M:HandleCTP.ThisAddIn.InitializeDataBindings">
+</member><member name="M:HandleCTP.ThisAddIn.InitializeCachedData">
+</member><member name="M:HandleCTP.ThisAddIn.InitializeData">
+</member><member name="M:HandleCTP.ThisAddIn.BindToData">
+</member><member name="M:HandleCTP.ThisAddIn.StartCaching(System.String)">
+</member><member name="M:HandleCTP.ThisAddIn.StopCaching(System.String)">
+</member><member name="M:HandleCTP.ThisAddIn.IsCached(System.String)">
+</member><member name="M:HandleCTP.ThisAddIn.BeginInitialization">
+</member><member name="M:HandleCTP.ThisAddIn.EndInitialization">
+</member><member name="M:HandleCTP.ThisAddIn.InitializeControls">
+</member><member name="M:HandleCTP.ThisAddIn.InitializeComponents">
+</member><member name="M:HandleCTP.ThisAddIn.NeedsFill(System.String)">
+</member><member name="M:HandleCTP.ThisAddIn.OnShutdown">
+</member><member name="T:HandleCTP.ThisAddIn">
+</member><member name="M:HandleCTP.Globals.#ctor">
+</member><member name="T:HandleCTP.Globals">
+</member><member name="T:HandleCTP.ThisRibbonCollection">
+</member><member name="P:HandleCTP.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HandleCTP.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HandleCTP.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

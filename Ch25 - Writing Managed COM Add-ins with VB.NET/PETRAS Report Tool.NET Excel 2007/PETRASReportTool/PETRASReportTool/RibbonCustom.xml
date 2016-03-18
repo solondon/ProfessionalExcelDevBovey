@@ -1,0 +1,42 @@
+﻿<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+
+  <ribbon startFromScratch="false">
+
+    <tabs>
+
+      <tab id="rxPED.Tab"
+           label="PETRAS Report Tool.NET"
+           keytip="Z"
+           insertAfterMso="TabHome"
+           visible="true">
+
+        <group id="rxReport.Group"
+               label="Reports"
+               visible="true">
+
+          <button id="rxbtnAbout"
+                  label="About"
+                  screentip="About PETRAS Report Tool.NET"
+                  keytip="A"
+                  imageMso="AdvertisePublishAs"
+                  size="large"
+                  onAction="Reports_Click" />
+
+          <button id="rxbtnReport"
+                  label="Report"
+                  screentip="Create a report."
+                  keytip="T"
+                  imageMso="ChartShowData"
+                  size="large"
+                  onAction="Reports_Click" />
+
+        </group>
+
+      </tab>
+
+    </tabs>
+
+  </ribbon>
+
+</customUI>
+

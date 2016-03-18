@@ -1,0 +1,10 @@
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\First Application\First Application\bin\Debug\First Application.exe
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\First Application\First Application\bin\Debug\First Application.pdb
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\First Application\First Application\bin\Debug\First Application.xml
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\First Application\First Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\First Application\First Application\obj\Debug\First_Application.Form1.resources
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\First Application\First Application\obj\Debug\First_Application.Resources.resources
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\First Application\First Application\obj\Debug\First Application.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\First Application\First Application\obj\Debug\First Application.exe
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\First Application\First Application\obj\Debug\First Application.xml
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\First Application\First Application\obj\Debug\First Application.pdb

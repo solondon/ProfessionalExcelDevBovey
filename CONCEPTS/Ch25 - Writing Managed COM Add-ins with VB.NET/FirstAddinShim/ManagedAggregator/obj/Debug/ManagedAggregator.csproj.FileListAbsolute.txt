@@ -1,0 +1,5 @@
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddinShim\ManagedAggregator\bin\Debug\ManagedAggregator.dll
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddinShim\ManagedAggregator\bin\Debug\ManagedAggregator.pdb
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddinShim\ManagedAggregator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddinShim\ManagedAggregator\obj\Debug\ManagedAggregator.dll
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\FirstAddinShim\ManagedAggregator\obj\Debug\ManagedAggregator.pdb

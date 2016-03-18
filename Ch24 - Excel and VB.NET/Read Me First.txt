@@ -1,0 +1,58 @@
+Application for Chapter 24 - Excel & VB.NET
+
+**************************** PETRAS Report Tool .NET ****************************
+
+If you are running the application with a version of Excel other than Excel 2003, 
+you first need to change the references to the Excel object library, Office object 
+library and Microsoft Visual Basic for Application Extensibility 5.3 object library,
+as this is not done automatically.
+
+In order to explore and test the application you will need to meet the following
+requirements.
+
+* Excel 2003 SP-3 or later.
+* Visual Studio 2008 or later.
+* SQL Server 2005 Express Edition or later.
+
+Attach the PETRAS database to SQL Server.
+
+1. Unzip the PETRAS_Database.zip file. This archive contains two files:
+   PETRAS.mdf and PETRAS.ldf.
+2. Open SQL Server Management Studio.
+3. Expand the node for your SQL Server in the Object Explorer window.
+4. Right-click on the Databases folder and choose "Attach..." from the menu.
+5. In the attach databases dialog click the Add button.
+6. Locate the PETRAS.mdf file and click OK in both dialogs to attach the database.
+
+Update the connection string.
+
+1. Open VS 2008.
+2. Open PETRAS Project file located in the  mainfolder \PETRAS Report Tool .NET.
+3. Select the command Project | PETRAS Report Tool .NET Properties...
+4. Select the tab 'Settings'.
+5. Select the value field for the SQLConnection and click on the '...' button.
+6. Entry the correct information in the dialog form:
+
+- If you use a local SQL Server 2005 Express Edition or later, for the 
+  'Server name' start with a \ [backslash] and then the name SQLEXPRESS.
+- Select the 'Windows Authentication' option for logging into the server.
+- Select PETRAS database in the field 'Select or enter a database name'.
+- Make sure to test the connection by clicking the 'Test Connection' button.
+
+Even if you only want to run the solution you still need to meet the above requirements
+and also change the connection string in the following way:
+
+1. Open the XML configuration file 'PETRAS Report Tool .NET.exe.xml' which can be found in the folder: 
+...\Ch 24 - Excel & VB.NET\Applications\PETRAS Report Tool .NET\PETRAS Report Tool .NET\bin\Release
+2. Change the connection string.
+3. Save the file.
+4. Run the executable PETRAS Report Tool.NET exe file.
+
+All the Excel template files are located in the debug folder:
+
+...\PETRAS Report Tool .NET\PETRAS Report Tool .NET\bin\Debug
+
+The help file, PETRAS_Report_Tool.chm, is also located in the Debug folder.
+
+If you run the solution from the compiled exe file in the Release folder or create
+a setup package, make sure these files are also included.

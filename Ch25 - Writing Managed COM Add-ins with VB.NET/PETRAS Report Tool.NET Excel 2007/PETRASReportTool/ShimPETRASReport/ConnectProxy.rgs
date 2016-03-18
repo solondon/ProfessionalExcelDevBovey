@@ -1,0 +1,49 @@
+HKCR
+{
+	PETRASReportTool.Connect = s 'Connect Class'
+	{
+		CLSID = s '{9d5657e0-301c-40f6-8d72-b4f9f003c2a2}'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove '{9d5657e0-301c-40f6-8d72-b4f9f003c2a2}' = s 'PETRASReportTool.Connect'
+		{
+			ProgID = s 'PETRASReportTool.Connect'
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			
+		}
+	}
+}
+
+HKCU
+{
+	NoRemove Software
+	{
+		NoRemove Microsoft
+		{
+			NoRemove Office
+			{
+				NoRemove Excel
+				{
+					NoRemove Addins
+					{
+						ForceRemove PETRASReportTool.Connect
+						{
+							val 'Description' = s 'A tool to aquire data from a SQL Server database and populate report templates in Excel.'
+							val 'FriendlyName' = s 'PETRAS Report Tool.NET'
+							val 'LoadBehavior' = d 3
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+
+
+
+

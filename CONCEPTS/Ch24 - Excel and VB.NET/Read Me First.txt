@@ -1,0 +1,48 @@
+Concepts for Chapter 24 - Excel & VB.NET
+
+********************** First Application **********************
+It's not required to have VS 2008 in order to run the solution 
+but you must have .NET Framework 2.0 or later installed.
+
+The executable file for First Application is located in the 
+following folder:
+
+\First Application\First Application\bin\Debug
+
+
+********************** Automate Excel **********************
+It's not required to have VS 2008 in order to run the solution 
+but you must have .NET Framework 2.0 or later installed together
+with Excel 2003 or later and the version-specific PIA.
+
+If you are running the application with a later version of Excel 
+then you first need to change the references to the Excel object 
+library, Office object library and Microsoft Visual Basic for Applications
+Extensibility 5.3 object library as this is not done automatically.
+
+Also be sure to change the option "Start external program" under 
+the Debug tab in the solution's properties windows.
+
+The executable file for Automate Excel is located in the 
+following folder:
+
+Automate Excel\Automate Excel\bin\Debug
+
+
+********************** Northwind **********************
+To run the solution you will need to meet the following
+requirements. 
+
+* Visual Studio 2008 or later.
+* SQL Server 2005 Express Edition or later.
+
+To run the solution the Northwind database must be connected to
+a SQL Server. The instructions to do so are provided in Chapter
+19 - Programming with Access and SQL Server. 
+
+The database is available in the main folder:
+
+\NorthWind
+
+You may also need to change the connection string in the two
+functions in the MData code module that is included in the solution.

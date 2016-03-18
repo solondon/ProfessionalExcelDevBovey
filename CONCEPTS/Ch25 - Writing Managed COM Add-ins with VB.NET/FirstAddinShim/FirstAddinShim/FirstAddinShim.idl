@@ -1,0 +1,39 @@
+// FirstAddinShim.idl 
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(D8FBA3E9-48FE-48D4-B1DA-C3D39EA449CF),
+	version(1.0),
+	helpstring("FirstAddinShim 1.0 Type Library")
+]
+library FirstAddinShimLib
+{
+	importlib("stdole2.tlb");
+
+	[
+		uuid(b7b5d1ed-8528-4c11-b70a-ee1bd7e4d1bd),
+		helpstring("ConnectProxy Class")
+	]
+	coclass ConnectProxy
+	{
+		[default] interface IUnknown;
+	};
+
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

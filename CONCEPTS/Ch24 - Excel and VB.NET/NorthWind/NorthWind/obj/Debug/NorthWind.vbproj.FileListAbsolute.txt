@@ -1,0 +1,20 @@
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\NorthWind\NorthWind\bin\Debug\NorthWind.exe
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\NorthWind\NorthWind\bin\Debug\NorthWind.pdb
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\NorthWind\NorthWind\bin\Debug\NorthWind.xml
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\NorthWind\NorthWind\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\NorthWind\NorthWind\obj\Debug\NorthWind.Form1.resources
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\NorthWind\NorthWind\obj\Debug\NorthWind.Resources.resources
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\NorthWind\NorthWind\obj\Debug\NorthWind.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\NorthWind\NorthWind\obj\Debug\NorthWind.exe
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\NorthWind\NorthWind\obj\Debug\NorthWind.xml
+C:\Documents and Settings\Dennis\My Documents\Visual Studio 2008\Projects\NorthWind\NorthWind\obj\Debug\NorthWind.pdb
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\NorthWind\NorthWind\obj\Debug\NorthWind.exe
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\NorthWind\NorthWind\obj\Debug\NorthWind.xml
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\NorthWind\NorthWind\obj\Debug\NorthWind.pdb
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\NorthWind\NorthWind\bin\Debug\NorthWind.exe
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\NorthWind\NorthWind\bin\Debug\NorthWind.pdb
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\NorthWind\NorthWind\bin\Debug\NorthWind.xml
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\NorthWind\NorthWind\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\NorthWind\NorthWind\obj\Debug\NorthWind.Form1.resources
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\NorthWind\NorthWind\obj\Debug\NorthWind.Resources.resources
+C:\Documents and Settings\Dennis\My Documents\PED Mina bidrag\Ch 24 - Excel & VB.NET\Concepts\NorthWind\NorthWind\obj\Debug\NorthWind.vbproj.GenerateResource.Cache
